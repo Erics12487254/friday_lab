@@ -10,4 +10,4 @@ Make sure `rental.py` and `main.py` are in the same folder, then run:
 - `README.md` — this file
 
 ## AI-use note
-Used Claude to explain `@property` and inheritance concepts. I wrote and debugged the code myself with Claude reviewing for bugs.
+Used Claude to explain `@property` and inheritance concepts. I wrote and debugged the code myself. Ingredients like TOyota Yaris (1AB234) and Honda Wave (3MB999) are randomly given plate numbers by Claude. 
