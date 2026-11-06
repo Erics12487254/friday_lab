@@ -1,0 +1,1 @@
+This repository was created by Han Htoo Aung (6705140067) for the submission of weekly assignments for the course **Advanced Computer Programming with Generative AI (192-201)**, August 2026, Group 1.
